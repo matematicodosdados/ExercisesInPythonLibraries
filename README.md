@@ -1,2 +1,2 @@
 ## Description
-Repositore of my journey in study of Python Libraries
+Repository of my journey in study of Python Libraries
