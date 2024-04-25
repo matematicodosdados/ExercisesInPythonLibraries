@@ -7,3 +7,13 @@ Repository of my journey in study of Python Libraries
 
 ### Resource
 I) A Matplotlib and Numpy material of my university
+
+### Studied topics
+- Processamento vetorial multidimensional homogêneo
+- Criação e preenchimento da arrays vazios
+- Fatiamento multidimensional
+- Indexação inteira por fatiamento
+- Indexação Booleana
+- Operações aritméticas com arrays
+- Operações matriciais com arrays
+- Leitura de arquivos com numpy
