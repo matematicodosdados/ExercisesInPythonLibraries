@@ -1,4 +1,4 @@
-## ExercisesinPython
+## NumpyStudies
 Repositório de estudo da biblioteca de python Numpy
 
 
